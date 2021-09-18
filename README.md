@@ -1,2 +1,2 @@
 # Personal Website
-Website for my research and experimences.
+Website for my research and experiences.
